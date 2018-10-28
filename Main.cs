@@ -40,7 +40,7 @@ public class SGD285_1
 	       new UserQuote("Jennifer Ethridge", "I have found a desire within myself that no experience in this world can satisfy; the most probable explanation is that I was made for another world."),
            new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"),
            new UserQuote("Paola Gonzalez", "The roots of education are bitter, but the fruit is sweet. - Aristotle"),
-           new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"),
+           new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"), //Not sure if this makes any sense
            new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),
           new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin"),
            new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing. - [attributed to] Socrates"),
@@ -48,7 +48,7 @@ public class SGD285_1
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
 	   new UserQuote("Jonny Westfall", "No one will ever get what they want, and that is beautiful. - They Might Be Giants"),
            new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"), // I love this quote//
-           new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
+           new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"), //This one is duplicated
            new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),
            new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"),
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
